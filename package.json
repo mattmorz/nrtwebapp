@@ -1,0 +1,34 @@
+{
+  "name": "nrt_webapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "datatables.net-bs": "^1.10.16",
+    "datatables.net-buttons-bs": "^1.5.1",
+    "datatables.net-fixedheader-bs": "^3.1.3",
+    "datatables.net-responsive-bs": "^2.2.1",
+    "datatables.net-scroller-bs": "^1.4.4",
+    "highcharts": "^6.0.6",
+    "jquery": "^3.3.1",
+    "jszip": "^3.1.5",
+    "ol": "^4.6.4",
+    "pdfmake": "^0.1.36",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.2.0",
+    "react-loadable": "^5.3.1",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0",
+    "react-spinners": "^0.2.6",
+    "react-toastify": "^3.3.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
